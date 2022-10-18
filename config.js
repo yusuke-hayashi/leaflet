@@ -1,4 +1,4 @@
-var endpoint = "http://ja.dbpedia.org/sparql";
+var endpoint = "https://ja.dbpedia.org/sparql";
 var query = (function () {/*
 PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
